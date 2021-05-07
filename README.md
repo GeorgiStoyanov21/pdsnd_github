@@ -1,17 +1,33 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+
 
 ### Date created
-Include the date you created this project and README file.
+2021-05-05
 
 ### Project Title
-Replace the Project Title
+**Explore US Bikeshare Data**
 
 ### Description
-Describe what your project is about and what it does
+This project analyses Bikeshare data from 3 different US cities.
 
+Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride.
+
+Regardless, each bike can serve several users per day.Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
 ### Files used
-Include the files used
+* bikeshare.py : interpreted in python
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+1.Richard Kalehoff (Udacity mentor)
 
+* https://github.com/richardkalehoff
+
+2.Juno Lee (Udacity Mentor)
+
+* https://github.com/junolee
+
+3.Udacity Knowledge
+
+* https://knowledge.udacity.com/questions/366660
+* https://knowledge.udacity.com/questions/61861

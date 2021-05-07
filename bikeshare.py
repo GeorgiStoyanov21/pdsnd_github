@@ -1,3 +1,8 @@
+"""
+This program analyzes bikeshare data for 3 majour US cities and
+interactively displays important summary statistics.
+"""
+
 import time
 import pandas as pd
 import numpy as np
